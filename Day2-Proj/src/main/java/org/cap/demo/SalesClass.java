@@ -8,5 +8,7 @@ public class SalesClass {
 		
 		int[] args ={12,19,20};
 		System.out.println("Show Method");
+		
+		
 	}
 }

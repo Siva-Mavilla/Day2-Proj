@@ -18,4 +18,11 @@ public class MainClass {
 		
 
 	}
+	
+	public static void sayHello(){
+		System.out.println("Hello! Good Morning!");
+		
+		
+
+	}
 }
